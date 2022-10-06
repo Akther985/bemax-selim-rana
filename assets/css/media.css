@@ -1,0 +1,293 @@
+/* Normal desktop :1140px. */
+@media (min-width: 1200px) {
+    .container{
+        width: 1140px;
+    }
+    .single-features {
+        position: relative;
+        height: 283px;
+        width: 370px;
+        overflow: hidden;
+    }
+    .work-title h2 {
+        font-size: 20px;
+        padding-bottom: 40px;
+        line-height: 30px;
+        margin: 0;
+        padding-top: 250px;
+    }
+
+   
+}
+@media (min-width: 1200px) and (max-width:1400px){
+    .container {
+        width: 1140px;
+    }
+    .project-wrapper {
+        position: relative;
+        height: 400px;
+        width: 390px;
+        background-size: cover;
+    }
+    .textmonial-text p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .textmonial-btnn h4 {
+        font-size: 12px;
+        padding-top: 0px;
+    }
+    .textmonial-btnn a {
+        font-size: 12px;
+        padding-top: 0px;
+        padding-left: 30px;
+        text-decoration: none;
+        color: black;
+    }
+}
+@media (min-width: 992px) and (max-width:1200px){
+    .main-menu nav ul li a {
+        font-size: 18px;
+        
+    }
+    .slider-figer {
+        padding: 120px 0px;
+    }
+    .cat-btn a {
+        padding: 15px 45px;
+        font-size: 15px;
+        color: #fff;
+        border: 1px solid #fff;
+        font-weight: 700;
+        text-decoration: none;
+    }
+    .single-features {
+        position: relative;
+        height: 283px;
+        width: 310px;
+        overflow: hidden;
+    }
+    .project-wrapper {
+        position: relative;
+        height: 400px;
+        width: 340px;
+        background-size: cover;
+    }
+    .work-title h2 {
+        font-size: 18px;
+        padding-bottom: 40px;
+        line-height: 30px;
+        margin: 0;
+        padding-top: 240px;
+    }
+    .textmonial-text p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .textmonial-btnn h4 {
+        font-size: 14px;
+        padding-top: 0px;
+    }
+    .textmonial-btnn i {
+        padding-right: 10px;
+    }
+    .textmonial-btnn {        
+        display: block;
+    }
+    .textmonial-btnn a {
+        font-size: 14px;
+        padding-top: 20px;
+        padding-left: 0px;
+        text-decoration: none;
+        color: black;
+    }
+}
+@media (min-width: 768px) and (max-width: 992px){
+    .main-menu nav ul li a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #666666;
+        padding: 40px 5px;
+        display: block;
+    }
+    .slider-figer {
+        padding: 120px 0px;
+    }
+    .cat-area {
+        padding: 15px 0px;        
+        font-size: 17px;
+    }
+    .cat-btn a {
+        padding: 18px 47px;
+        font-size: 15px;
+        color: #fff;
+        border: 1px solid #fff;
+        font-weight: 700;
+        text-decoration: none;
+    }
+    .single-features {
+        position: relative;
+        height: 283px;
+        width: 350px;
+        overflow: hidden;
+    }
+    .project-wrapper {
+        position: relative;
+        height: 400px;
+        width: 370px;
+        background-size: cover;
+    }
+    .Choose-title {
+        padding-left: 20px;
+    }
+    .Choose-title h3 {
+        padding-top: 10px;
+        font-size: 22px;
+        padding-bottom: 0px;
+        font-weight: 700;
+    }
+    .Choose-title p {
+        padding-right: 10px;
+        font-size: 18px;
+        line-height: 28px;
+        padding-left: 0px; 
+    }
+    .work-title h2 {
+        font-size: 20px;
+        padding-bottom: 40px;
+        line-height: 30px;
+        margin: 0;
+        padding-top: 0px; 
+    }
+}
+@media only screen and (max-width: 767px){
+    .container {
+        max-width: 540px;
+    }
+    .navbar{
+        display: none;
+    }
+    .main-menu nav ul li a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #666666;
+        padding: 20px 5px;
+        display: block;
+    }
+    .main-menu .mobile-menu {
+        padding: 50px 20px;
+         visibility:visible ; 
+    }
+    .slider-figer {
+        padding: 80px 0px;
+    }
+    .slider-wrapper h4 {
+        font-size: 24px;
+        color: #fff;
+        font-weight: 100;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .slider-wrapper h1 {
+        padding-bottom: 30px;
+        font-size: 48px;
+        color: #fff;
+        font-weight: 700;
+        text-transform: uppercase;
+        margin: 0;
+    }
+
+    .cat-area {
+        background-color: #4272D7;
+        height: auto;
+        text-align: center;
+        padding: 10px 0px;
+        color: #fff;
+        font-size: 18px;
+    }
+    .cat-btn{
+        padding-bottom: 10px;
+    }
+    .cat-btn a {
+        padding: 12px 42px;
+        font-size: 15px;
+        color: #fff;
+        border: 1px solid #fff;
+        font-weight: 700;
+        text-decoration: none;
+    }
+    .single-features {
+        position: relative;
+        height: 283px;
+        width: 430px;
+        overflow: hidden;
+        left: 40px;
+    }
+    .project-wrapper {
+        position: relative;
+        height: 400px;
+        width: 280px;
+        background-size: cover;
+    }
+
+    .Choose-title {
+        padding-left: 0px; 
+    }
+    .Choose-info{
+        padding-top: 30px;
+    }
+    .Choose-title h3 {
+        padding-top: 10px;
+        font-size: 22px;
+        padding-bottom: 0px;
+        font-weight: 700;
+    }
+    .Choose-title p {
+        padding-right: 10px;
+        font-size: 18px;
+        line-height: 28px;
+        padding-left: 0px; 
+    }
+    .work-title h2 {
+        font-size: 20px;
+        padding-bottom: 40px;
+        line-height: 30px;
+        margin: 0;
+        padding-top: 0px;
+    }
+    .textmonial-btnn {
+        /* display: flex; */
+        display: block;
+    }
+    .textmonial-text p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .textmonial-btnn h4 {
+        font-size: 16px;
+        padding-top: 0px;
+    }
+    .textmonial-btnn a {
+        font-size: 14px;
+        padding-top: 20px;
+        padding-left: 0px;
+        text-decoration: none;
+        color: black;
+    }
+    .banar-tham {
+        display: block;
+        width: 180px!important;
+        height: 90px;
+    }
+}
+
+
+
+
+
+    
+        
+    
+    
+
+    
